@@ -26,19 +26,38 @@ object {
 /* type hierarchy- change for your project */
 h1 {
   font-size: 3em; /* 48px */
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-image: url(../img/giftly.png);
+    width: 30%;
+    height: 100px;
+    padding: 15px;
 }
 
 h2 {
   font-size: 2.25em /* 36px */
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 h3 {
   font-size: 1.75em /* 28px */
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 h4 {
   font-size: 1.125em /*18px */
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+body{
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+p{
+    
+    
+}
+
+
 
 /* =======================================
     author styles
