@@ -26,13 +26,21 @@ object {
 /* type hierarchy- change for your project */
 
 body{
-   background-image: url(../img/restaurant_icons.png); 
+   background-image: url(../img/old_map.png); 
 }
 
 
 h1 {
-  font-size: 3em; /* 48px */
-    font-family: font-family: 'Pacifico', cursive;
+  font-size: 4em; /* 48px */
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    border-style:groove;
+    border-color: #f0bf8e;
+    width: 400px;
+}
+
+.cubalibre{
+    padding-left: 35%;
 }
 
 h2 {
@@ -51,28 +59,32 @@ h4 {
 }
 
 
+a {
+    float: left;
+    width: 20%;
+    padding: 5px;
+}
+
+.photosmain{
+    padding-left: 300px;
+    padding-bottom: 300px;
+    
+    
+}
 
 
-
-
-
-
-
-
-p{
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    width: 50%;
-    padding-left: 50px;
+footer{
+    padding-right: 300px;
+    padding-left: 300px;
+    text-align: center;
+    
     
 }
 
 
 
 
-.photosmain{
-    width: 100px;
-    float: left;
-}
+
 
 /* =======================================
     author styles
