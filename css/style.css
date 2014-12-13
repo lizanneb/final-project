@@ -31,12 +31,10 @@ body{
 
 
 h1 {
-  font-size: 4em; /* 48px */
+  font-size: 5em; /* 48px */
     font-family: 'Permanent Marker', cursive;
     text-align: center;
-    border-style:groove;
-    border-color: #f0bf8e;
-    width: 400px;
+    width: 500px;
 }
 
 .cubalibre{
@@ -44,8 +42,9 @@ h1 {
 }
 
 h2 {
-  font-size: 2.25em /* 36px */
-      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 4em; /* 36px */
+    font-family: 'Permanent Marker', cursive;
+    padding-left: 20px;
 }
 
 h3 {
@@ -66,27 +65,58 @@ a {
 }
 
 .photosmain{
+    font-family: 'Handlee', cursive;
+    font-size: 1.5em;
     padding-left: 300px;
     padding-bottom: 300px;
     
     
 }
 
+.photosevents img a{
+    width: 50px;
+    padding: 5px;
+}
+
+
+.photoshouse img a{
+    width: 50px;
+    padding: 5px;
+    
+}
+
+.photoshavana img a{
+    width: 50px;
+    padding: 5px;
+}
+
+.photossites img a{
+    width: 50px;
+    padding: 5px;
+}
 
 footer{
-    padding-right: 300px;
-    padding-left: 300px;
+    font-family: 'Handlee', cursive;
+    font-size: 1.5em;
+    line-height: 1.2;
+    padding-right: 10%;
+    padding-left: 10%;
     text-align: center;
-    
-    
 }
 
-.photosevents{
-    padding: 50px;
-    width: 100px;
-   align-content: space-around; 
+p{
+    font-family: 'Handlee', cursive;
+    font-size: 1.3em;
+    width: 75%;
+    padding: 10px;
 }
 
+.narrative a{
+    font-family: 'Handlee', cursive;
+    font-size: 1.3em;
+    text-align: center;
+    float:right; 
+}
 
 
 

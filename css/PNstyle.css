@@ -1,0 +1,28 @@
+p {
+    font-size: 1.05em;
+    font-family: 'Coming Soon', cursive;
+    padding-left: 10%;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    line-height: 1.5;
+    width: 75%;
+    text-align: justify;
+    
+}
+
+
+
+h2 {
+    color: #008A8A;
+    font-size: 3em;
+    font-family: 'Homemade Apple', cursive;
+    text-align: left;
+    width: 75%;
+    padding-left: 10%;
+    
+}
+
+
+body {
+    background-image: url(../img/symphony.png);
+}
